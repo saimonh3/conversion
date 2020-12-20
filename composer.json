@@ -1,0 +1,33 @@
+{
+  "name": "saimonh3/conversion",
+  "description": "A simple conversion package",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "saimon",
+      "email": "saimon2721@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "prefer-stable": true,
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
+  "autoload": {
+    "psr-4": {
+      "Saimonh3\\Conversion\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Saimonh3\\Conversion\\Tests\\": "tests"
+    }
+  }
+}

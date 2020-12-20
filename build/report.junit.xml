@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.006591">
+    <testsuite name="Spatie Test Suite" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.006591">
+      <testsuite name="Saimonh3\Conversion\Tests\WeightTest" file="/Users/saimon/Documents/www/packages/conversion/tests/WeightTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.006591">
+        <testcase name="this_should_return_kilogram_to_pound" class="Saimonh3\Conversion\Tests\WeightTest" classname="Saimonh3.Conversion.Tests.WeightTest" file="/Users/saimon/Documents/www/packages/conversion/tests/WeightTest.php" line="14" assertions="1" time="0.006475"/>
+        <testcase name="this_should_return_pound_to_kilogram" class="Saimonh3\Conversion\Tests\WeightTest" classname="Saimonh3.Conversion.Tests.WeightTest" file="/Users/saimon/Documents/www/packages/conversion/tests/WeightTest.php" line="22" assertions="1" time="0.000116"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
